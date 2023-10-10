@@ -13,8 +13,8 @@
 </script>
 
 <template>
-  <Jumbo/>
   <Title/>
+  <Jumbo/>
 </template>
 
 <style>

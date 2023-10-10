@@ -13,8 +13,7 @@
 
 <style scoped>
   div {
-    background-color: blueviolet;
-    width: 100%;
+    background-image: url(../../public/ace\ patibolo.png);
     height: 100vh;
   }
 </style>
