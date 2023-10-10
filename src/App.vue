@@ -1,6 +1,13 @@
 <script>
-  import title from './components/Title.vue'
+  import Title from './components/Title.vue'
   
+  export default {
+    name: 'App',
+
+    components: {
+      Title
+    }
+  }
 </script>
 
 <template>
