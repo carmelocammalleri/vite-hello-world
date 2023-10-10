@@ -11,7 +11,7 @@
 </script>
 
 <template>
-
+  <Title/>
 </template>
 
 <style>
