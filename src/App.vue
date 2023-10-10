@@ -1,4 +1,5 @@
 <script>
+  import title from './components/Title.vue'
   
 </script>
 
